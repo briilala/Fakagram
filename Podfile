@@ -8,5 +8,6 @@ target 'Fakagram' do
   # Pods for Fakagram
   pod "Parse"
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 end
