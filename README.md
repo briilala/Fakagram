@@ -1,4 +1,4 @@
-# Parstagram - Part II
+# Fakagram - Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
@@ -8,7 +8,7 @@ Time spent: **5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [] User stays logged in across restarts. (1pt)
+- [ ] User stays logged in across restarts. (1pt)
 - [X] User can log out. (1pt)
 - [X] User can view comments on a post. (3pts)
 - [X] User can add a new comment. (5pts)
